@@ -1,1 +1,229 @@
 
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  color: #333;
+  background: #fff;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.header {
+  background: #052c43;
+  padding-bottom: 50px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 10%;
+}
+
+.logo {
+  color: #fff;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.nav-menu {
+  list-style: none;
+  display: flex;
+  gap: 30px;
+}
+
+.nav-menu li a {
+  color: #fff;
+  font-size: 16px;
+}
+
+.btn {
+  padding: 10px 20px;
+  border-radius: 30px;
+  font-size: 16px;
+  transition: all 0.3s ease;
+}
+
+.hire-btn {
+  background: #00b894;
+  color: #fff;
+}
+
+.portfolio-btn {
+  background: transparent;
+  border: 2px solid #00b894;
+  color: #00b894;
+}
+
+/* Hero Section */
+.hero {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 60px 10%;
+  flex-wrap: wrap;
+}
+
+.hero-text {
+  max-width: 600px;
+  color: #fff;
+}
+
+.hero-text h1 {
+  font-size: 48px;
+}
+
+.hero-text h2 {
+  font-size: 42px;
+  margin-top: 10px;
+  color: #00b894;
+}
+
+.blink {
+  animation: blink 1s infinite;
+}
+
+@keyframes blink {
+  0%, 50%, 100% { opacity: 1; }
+  25%, 75% { opacity: 0; }
+}
+
+.hero-text p {
+  margin-top: 20px;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+.hero-buttons {
+  margin-top: 30px;
+}
+
+.hero-buttons .btn {
+  margin-right: 20px;
+}
+
+.hero-image img {
+  width: 350px;
+}
+
+/* About Section */
+.about {
+  padding: 80px 10%;
+  background: #f9f9f9;
+}
+
+.about-content {
+  display: flex;
+  gap: 50px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.about-img img {
+  width: 300px;
+  border-radius: 10px;
+}
+
+.about-text h4 {
+  color: #00b894;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.about-text h2 {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+.about-text p {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.info p {
+  margin-bottom: 8px;
+}
+
+.socials a {
+  margin-right: 15px;
+  color: #00b894;
+}
+
+.about-buttons {
+  margin-top: 20px;
+}
+
+/* Services Section */
+.services {
+  padding: 80px 10%;
+  text-align: center;
+}
+
+.services h2 {
+  font-size: 32px;
+  margin-bottom: 50px;
+}
+
+.services-grid {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+.service-card {
+  background: #fff;
+  padding: 30px 20px;
+  border-radius: 15px;
+  box-shadow: 0px 8px 20px rgba(0,0,0,0.1);
+  max-width: 300px;
+  text-align: center;
+}
+
+.icon {
+  width: 50px;
+  margin-bottom: 20px;
+}
+
+.more-services {
+  display: inline-block;
+  margin-top: 30px;
+  color: #00b894;
+  font-weight: bold;
+}
+
+/* Skills Section */
+.skills {
+  padding: 80px 10%;
+  text-align: center;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .hero {
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  .about-content {
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  .hero-image img {
+    margin-top: 30px;
+  }
+  
+  .services-grid {
+    flex-direction: column;
+  }
+}
+
