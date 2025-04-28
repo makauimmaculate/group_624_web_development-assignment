@@ -20,7 +20,7 @@ A responsive, modern portfolio template built with HTML, CSS, and JavaScript—d
 
 ## Demo
 
-**Live Preview:** [https://your-username.github.io/group_624_web_development-assignment](#)  
+**Live Preview:** [https://group624.netlify.app/](#)  
 *Replace with your actual GitHub Pages or hosting URL.*
 
 ![Portfolio Screenshot](./assets/images/screenshot.png)  
