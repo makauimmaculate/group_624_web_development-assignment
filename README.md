@@ -21,10 +21,8 @@ A responsive, modern portfolio template built with HTML, CSS, and JavaScript—d
 ## Demo
 
 **Live Preview:** [https://group624.netlify.app/](#)  
-*Replace with your actual GitHub Pages or hosting URL.*
 
 ![Portfolio Screenshot](./assets/images/screenshot.png)  
-*(Update path if needed.)*
 
 ---
 
@@ -173,9 +171,15 @@ This project is distributed under the MIT License. See `LICENSE` for details.
 
 ## Author
 
-**Immaculate Mueni  Makau**  
+**Immaculate Makau**
+**Dennis Mungai**
+**Ashley Achieng**
+**Adeoye Jeremiah** 
 
-- GitHub: [@makauimmaculate](https://github.com/makauimmaculate)   
-- Email: makauimmaculate42@gmail.com 
+- GitHub: [@makauimmaculate](https://github.com/makauimmaculate/group_624_web_development-assignment)  
 
-Created with ❤️ by Immaculate Makau
+Created with ❤️ by PLP Group 624
+    1. Immaculate Makau
+    2. Dennis Mungai
+    3. Ashley Achieng
+    4. Adeoye Jeremiah
