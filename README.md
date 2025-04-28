@@ -171,7 +171,7 @@ This project is distributed under the MIT License. See `LICENSE` for details.
 
 ## Author
 
-**Immaculate Makau**
+**Immaculate Mueni**
 **Dennis Mungai**
 **Ashley Achieng**
 **Adeoye Jeremiah** 
@@ -179,7 +179,7 @@ This project is distributed under the MIT License. See `LICENSE` for details.
 - GitHub: [@makauimmaculate](https://github.com/makauimmaculate/group_624_web_development-assignment)  
 
 Created with ❤️ by PLP Group 624
-    1. Immaculate Makau
+    1. Immaculate Mueni
     2. Dennis Mungai
     3. Ashley Achieng
     4. Adeoye Jeremiah
