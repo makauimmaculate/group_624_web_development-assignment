@@ -20,7 +20,7 @@ A responsive, modern portfolio template built with HTML, CSS, and JavaScript—d
 
 ## Demo
 
-**Live Preview:** [https://group624.netlify.app/](#)  
+**Live Preview:** [Ui-Portfolio](https://group624.netlify.app/)  
 
 ![Portfolio Screenshot](./assets/images/screenshot.png)  
 
