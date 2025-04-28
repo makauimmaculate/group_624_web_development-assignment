@@ -173,10 +173,9 @@ This project is distributed under the MIT License. See `LICENSE` for details.
 
 ## Author
 
-**Immaculate Makau**  
+**Immaculate Mueni  Makau**  
 
-- GitHub: [@makauimmaculate](https://github.com/makauimmaculate)  
-- LinkedIn: [your-linkedin](#)  
+- GitHub: [@makauimmaculate](https://github.com/makauimmaculate)   
 - Email: makauimmaculate42@gmail.com 
 
 Created with ❤️ by Immaculate Makau
