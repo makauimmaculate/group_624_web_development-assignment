@@ -177,6 +177,6 @@ This project is distributed under the MIT License. See `LICENSE` for details.
 
 - GitHub: [@makauimmaculate](https://github.com/makauimmaculate)  
 - LinkedIn: [your-linkedin](#)  
-- Email: your.email@example.com  
+- Email: makauimmaculate42@gmail.com 
 
 Created with ❤️ by Immaculate Makau
