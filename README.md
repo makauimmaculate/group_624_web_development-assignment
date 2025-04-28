@@ -178,6 +178,6 @@ This project is distributed under the MIT License. See `LICENSE` for details.
 - Ashley Achieng  
 - Adeoye Jeremiah  
 
-- GitHub: [@makauimmaculate](https://github.com/makauimmaculate/group_624_web_development-assignment)  
+- GitHub: [@PLPGroup624](https://github.com/makauimmaculate/group_624_web_development-assignment)  
 
 Created with ❤️ by PLP Group 624
